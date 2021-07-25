@@ -21,6 +21,15 @@ h3{
     text-align: center;
 }
 
+h4{
+    text-align: center;
+}
+
+p2{
+    font-size: 13px;
+
+}
+
 
 img.example1{
 width: 100%;
@@ -42,6 +51,12 @@ animation: fadeIn 2s ease 0.3s 1 normal;
 img.example2{
     width: 90%;
 }
+
+img.example3{
+    width: 70%;
+}
+
+
     
 .page-header {
     display: flex;
@@ -117,6 +132,10 @@ list-style:url(img/button.png);
         padding-top: 20px;
         
     } 
+
+    img.example3{
+        width: 90%;
+    }
 
     .main-nav{
         flex-wrap: wrap;
